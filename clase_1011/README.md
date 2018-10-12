@@ -1,4 +1,4 @@
-# Clase 2 → Viernes 11 de octubre
+# Clase 2 → Viernes 12 de octubre
 
 Hoy comenzaremos a trabajar con [JSON](https://www.json.org/json-es.html) y [CSV](https://es.wikipedia.org/wiki/Valores_separados_por_comas) alimentando variables en scripts de p5.js
 
